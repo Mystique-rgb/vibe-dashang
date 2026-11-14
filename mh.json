@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "projectType": "standard",
+  "runtimeVersion": 1,
+  "entry": "src/scene.js",
+  "width": 1920,
+  "height": 1080,
+  "duration": 66,
+  "fps": 30,
+  "audio": [
+    {
+      "src": "assets/music.mp3",
+      "start": 0,
+      "offset": 0,
+      "duration": 66,
+      "volume": -3,
+      "fadeOut": 1.6
+    },
+    {
+      "src": "assets/sfx.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 66,
+      "volume": -7,
+      "fadeOut": 0.6
+    }
+  ]
+}

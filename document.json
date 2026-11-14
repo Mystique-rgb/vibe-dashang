@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 1,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 66,
+    "fps": 30
+  },
+  "title": "vibe-awards",
+  "audio": [
+    {
+      "src": "assets/music.mp3",
+      "start": 0,
+      "offset": 0,
+      "duration": 66,
+      "volume": -3,
+      "fadeOut": 1.6
+    },
+    {
+      "src": "assets/sfx.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 66,
+      "volume": -7,
+      "fadeOut": 0.6
+    }
+  ],
+  "timeMarkers": {
+    "4d69aa77-6a9f-4081-bd2d-c1c9e2b1cb9e": {
+      "id": "4d69aa77-6a9f-4081-bd2d-c1c9e2b1cb9e",
+      "timeSpace": "project",
+      "start": 40.93333333333333,
+      "label": "AI 标记",
+      "notes": "想让“主动回忆”这四个字出现的1时候，带点抖动效果",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 839.037418506748,
+        "y": 669.9465240641712
+      },
+      "screenshot": {
+        "$asset": "5871a20df42dd5c2a6c31e44084ae8c73ef4a6477422d08c560f3ae57029b06f",
+        "kind": "image",
+        "name": "marked-frame-40.933s.jpg"
+      },
+      "requestVersion": 1,
+      "number": 1
+    }
+  },
+  "markerSequence": 1,
+  "markerTypes": {
+    "#169cff": ""
+  }
+}

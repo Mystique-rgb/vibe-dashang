@@ -1,0 +1,10 @@
+node_modules/
+.mh/
+.tmp/
+
+# 渲染产物：仓库只放源码，成片留在本地
+*.mp4
+
+# 素材例外
+!assets/*.mp3
+!assets/*.wav
