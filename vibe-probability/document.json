@@ -1,0 +1,427 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 48,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 66.05,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/mix_master.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 66.05,
+      "volume": 0
+    }
+  ],
+  "title": "B_proj",
+  "markerSequence": 33,
+  "markerTypes": {
+    "#169cff": "",
+    "#df783e": ""
+  },
+  "timeMarkers": {
+    "581ee546-0d86-4a86-89b6-89069e8ae8c1": {
+      "id": "581ee546-0d86-4a86-89b6-89069e8ae8c1",
+      "timeSpace": "project",
+      "start": 1,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1294.6524123471343,
+        "y": 568.5561693160929
+      },
+      "screenshot": {
+        "$asset": "a8d86149e0f1dabd220d63baff4526a1ea11a640e654e84308e3a4553de9d016",
+        "kind": "image",
+        "name": "marked-frame-1s.jpg"
+      },
+      "requestVersion": 30,
+      "number": 15
+    },
+    "8bbb8ec2-9644-42d4-8036-0abe893c539b": {
+      "id": "8bbb8ec2-9644-42d4-8036-0abe893c539b",
+      "timeSpace": "project",
+      "start": 3.6445021101788257,
+      "label": "AI 标记",
+      "notes": "可以由灰变黄，加一个光晕震动特效，然后模仿或者复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 437.3261657826565,
+        "y": 376.0428003321357
+      },
+      "screenshot": {
+        "$asset": "ee256556fc0b1e04b74dc91804abd78f5ece047782aebc2e351a86cd10fc5cc2",
+        "kind": "image",
+        "name": "marked-frame-3.645s.jpg"
+      },
+      "requestVersion": 31,
+      "number": 16
+    },
+    "f71d2a00-354c-4953-8b36-2c2c094d43de": {
+      "id": "f71d2a00-354c-4953-8b36-2c2c094d43de",
+      "timeSpace": "project",
+      "start": 7.6,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1351.1229591115468,
+        "y": 532.6203600225601
+      },
+      "screenshot": {
+        "$asset": "94df90657cca26cfe6f04df5ca2b75972df5edc33903c29e7cb07916b68f5c3e",
+        "kind": "image",
+        "name": "marked-frame-7.6s.jpg"
+      },
+      "requestVersion": 32,
+      "number": 17
+    },
+    "c6b1f43d-15d5-4294-ba71-532efe6b449b": {
+      "id": "c6b1f43d-15d5-4294-ba71-532efe6b449b",
+      "timeSpace": "project",
+      "start": 9.3,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 889.0908924004502,
+        "y": 491.55082172251
+      },
+      "screenshot": {
+        "$asset": "33784cc409bed8dbca1b5bd7815bc9892ad3f5dfb7c9b0991af1bb000d6391b0",
+        "kind": "image",
+        "name": "marked-frame-9.3s.jpg"
+      },
+      "requestVersion": 33,
+      "number": 18
+    },
+    "1e7507d1-962d-4a8c-9c57-668105b02ae8": {
+      "id": "1e7507d1-962d-4a8c-9c57-668105b02ae8",
+      "timeSpace": "project",
+      "start": 18.666666666666668,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 986.6310345397364,
+        "y": 553.1550997973764
+      },
+      "screenshot": {
+        "$asset": "7b60047e5e6686aae60d7de3d66793f5dfa4aef5b678aaf4668b45f1e0e82e43",
+        "kind": "image",
+        "name": "marked-frame-18.667s.jpg"
+      },
+      "requestVersion": 34,
+      "number": 19
+    },
+    "830e28b1-77dd-41c4-a68a-c9ae5bf52037": {
+      "id": "830e28b1-77dd-41c4-a68a-c9ae5bf52037",
+      "timeSpace": "project",
+      "start": 20.3,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 826.2031552644962,
+        "y": 506.9518912412266
+      },
+      "screenshot": {
+        "$asset": "f88247720c188d951e107ff754cf4059b1f4d1b4a2b9fa578fd554cb09491a09",
+        "kind": "image",
+        "name": "marked-frame-20.3s.jpg"
+      },
+      "requestVersion": 35,
+      "number": 20
+    },
+    "8b03ffc7-c57b-4d41-8172-d55d5da820b8": {
+      "id": "8b03ffc7-c57b-4d41-8172-d55d5da820b8",
+      "timeSpace": "project",
+      "start": 20.3,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1103.4223952911543,
+        "y": 480.0000195834726
+      },
+      "screenshot": {
+        "$asset": "970d176344645a84b25d03443ac8f36ba42e719951516d6fa02bb9f465d3da41",
+        "kind": "image",
+        "name": "marked-frame-20.3s.jpg"
+      },
+      "requestVersion": 36,
+      "number": 21
+    },
+    "d269ee5d-d827-44ba-8cf1-c5732034b6a5": {
+      "id": "d269ee5d-d827-44ba-8cf1-c5732034b6a5",
+      "timeSpace": "project",
+      "start": 26.6,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1299.7860236433703,
+        "y": 293.9037824824532
+      },
+      "screenshot": {
+        "$asset": "ea95510fa264a5710097ac961bcf744905151318c9fc517f237798738da1156a",
+        "kind": "image",
+        "name": "marked-frame-26.6s.jpg"
+      },
+      "requestVersion": 37,
+      "number": 22
+    },
+    "5c74b06b-e229-4725-9330-be0b1684dc9d": {
+      "id": "5c74b06b-e229-4725-9330-be0b1684dc9d",
+      "timeSpace": "project",
+      "start": 35.5,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1290.8021451245418,
+        "y": 320.8556541402072
+      },
+      "screenshot": {
+        "$asset": "b58fda848b92597c74fda4da4016c7eb139c223a046ef2dce11046c46806b07c",
+        "kind": "image",
+        "name": "marked-frame-35.5s.jpg"
+      },
+      "requestVersion": 38,
+      "number": 23
+    },
+    "aa1d442b-114c-420a-9bd9-1f92b31c1625": {
+      "id": "aa1d442b-114c-420a-9bd9-1f92b31c1625",
+      "timeSpace": "project",
+      "start": 37.1,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1299.7860236433703,
+        "y": 306.7379874979111
+      },
+      "screenshot": {
+        "$asset": "bd1febf6b6bfd20aeaeaba2fa2dae0294f2eaa09a5f8bc5789dcfd948759238d",
+        "kind": "image",
+        "name": "marked-frame-37.1s.jpg"
+      },
+      "requestVersion": 39,
+      "number": 24
+    },
+    "c3719377-032c-442f-9cdd-6884b160a752": {
+      "id": "c3719377-032c-442f-9cdd-6884b160a752",
+      "timeSpace": "project",
+      "start": 38.504957077106724,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1127.8074602011834,
+        "y": 84.70588235294117
+      },
+      "screenshot": {
+        "$asset": "10a6fb7ef6524f1d88b6619a77da6473e58dc6d07e270854886b9236f7cbcc7d",
+        "kind": "image",
+        "name": "marked-frame-38.505s.jpg"
+      },
+      "requestVersion": 40,
+      "number": 25
+    },
+    "a1df1bed-1929-4e9b-9cb8-47598a51d2ae": {
+      "id": "a1df1bed-1929-4e9b-9cb8-47598a51d2ae",
+      "timeSpace": "project",
+      "start": 40.53333333333333,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 978.9305000945515,
+        "y": 481.2834224598931
+      },
+      "screenshot": {
+        "$asset": "e74cd8ee0b975e401571e4b2e2537d2b89195a7b1c552dfa7db5f6e9746f247f",
+        "kind": "image",
+        "name": "marked-frame-40.533s.jpg"
+      },
+      "requestVersion": 41,
+      "number": 26
+    },
+    "8beacadc-1f0f-4d69-bdd5-bb112b088a6e": {
+      "id": "8beacadc-1f0f-4d69-bdd5-bb112b088a6e",
+      "timeSpace": "project",
+      "start": 42.6,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 446.31016180231586,
+        "y": 388.8770053475936
+      },
+      "screenshot": {
+        "$asset": "5df3da9f470b4c1453ad2833e5c9a10b575e4ec86b4c386cd24a49661a80ad23",
+        "kind": "image",
+        "name": "marked-frame-42.6s.jpg"
+      },
+      "requestVersion": 42,
+      "number": 27
+    },
+    "fe0c8f98-5a50-4e75-9405-846b979d9daf": {
+      "id": "fe0c8f98-5a50-4e75-9405-846b979d9daf",
+      "timeSpace": "project",
+      "start": 42.6,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 944.2780950912191,
+        "y": 582.6738359583891
+      },
+      "screenshot": {
+        "$asset": "e3e1e7c505ea70c612ff9ceee92ede6d9f5c3a5f8a8af95998923da97f34dc40",
+        "kind": "image",
+        "name": "marked-frame-42.6s.jpg"
+      },
+      "requestVersion": 43,
+      "number": 28
+    },
+    "c9d3fc07-715f-4089-b42f-ec85e6c3f294": {
+      "id": "c9d3fc07-715f-4089-b42f-ec85e6c3f294",
+      "timeSpace": "project",
+      "start": 42.6,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1335.7218902211769,
+        "y": 761.0695970504679
+      },
+      "screenshot": {
+        "$asset": "bbd709b2dd6ef4e934dd98db11dbca7f4d6ff4fc213fed2ed8a49af7ebd9ef8e",
+        "kind": "image",
+        "name": "marked-frame-42.6s.jpg"
+      },
+      "requestVersion": 44,
+      "number": 29
+    },
+    "766aacd5-b03b-4b55-8743-df2545561932": {
+      "id": "766aacd5-b03b-4b55-8743-df2545561932",
+      "timeSpace": "project",
+      "start": 44,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 951.9786295364041,
+        "y": 476.14975220379347
+      },
+      "screenshot": {
+        "$asset": "9b431596af4dc3e92625904d7faaf87e1803e9d2b30c9228e8dc5b23d208b974",
+        "kind": "image",
+        "name": "marked-frame-44s.jpg"
+      },
+      "requestVersion": 45,
+      "number": 30
+    },
+    "b4ae40fd-63da-4684-be97-f88fb8bed76a": {
+      "id": "b4ae40fd-63da-4684-be97-f88fb8bed76a",
+      "timeSpace": "project",
+      "start": 51.266666666666666,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 887.8074308259758,
+        "y": 438.93048128342247
+      },
+      "screenshot": {
+        "$asset": "5a3f44294ffd029c766d232c5879cafa2c8bf5731394fb7e353f7b83ad8a569f",
+        "kind": "image",
+        "name": "marked-frame-51.267s.jpg"
+      },
+      "requestVersion": 46,
+      "number": 31
+    },
+    "a2e37aac-5173-4c51-a3b7-760879583a31": {
+      "id": "a2e37aac-5173-4c51-a3b7-760879583a31",
+      "timeSpace": "project",
+      "start": 51.266666666666666,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1122.6737314041166,
+        "y": 636.5775792738971
+      },
+      "screenshot": {
+        "$asset": "88613e0083c40af7e689628039f485885bd9364b002be045245215d3fe20359e",
+        "kind": "image",
+        "name": "marked-frame-51.267s.jpg"
+      },
+      "requestVersion": 47,
+      "number": 32
+    },
+    "2d05532e-cf92-4ef0-abb6-8126ca1bce96": {
+      "id": "2d05532e-cf92-4ef0-abb6-8126ca1bce96",
+      "timeSpace": "project",
+      "start": 51.266666666666666,
+      "label": "AI 标记",
+      "notes": "修改一下音效，模仿或复用对标视频的音效",
+      "color": "#169cff",
+      "origin": "user",
+      "onResolve": "delete",
+      "anchor": {
+        "x": 1253.5828169722606,
+        "y": 786.7380070813837
+      },
+      "screenshot": {
+        "$asset": "596c845d68726d982bdf23d05117e6c808d15488ec5de3ba9880b13d4749d771",
+        "kind": "image",
+        "name": "marked-frame-51.267s.jpg"
+      },
+      "requestVersion": 48,
+      "number": 33
+    }
+  }
+}

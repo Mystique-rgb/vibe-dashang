@@ -1,0 +1,17 @@
+# MotionHarness 运行时缓存（渲染产物、对象库，可重建）
+.mh/
+.tmp/
+node_modules/
+
+# 成片不进仓库（体积大，用 Release 或网盘分发）
+*.mp4
+
+# 从对标视频提取的中间产物（可由 tools/ 里的脚本重建）
+assets/ref_audio.wav
+assets/ref_score.wav
+assets/mix_master.wav
+
+# 素材例外：BGM 与音效素材库要进仓库
+!assets/*.mp3
+!assets/*.wav
+!assets/refsfx/*.wav

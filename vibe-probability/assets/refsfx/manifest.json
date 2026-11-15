@@ -1,0 +1,242 @@
+[
+ {
+  "file": "assets/refsfx/mid_00.wav",
+  "class": "mid",
+  "idx": 0,
+  "dur": 0.1324
+ },
+ {
+  "file": "assets/refsfx/mid_01.wav",
+  "class": "mid",
+  "idx": 1,
+  "dur": 0.0977
+ },
+ {
+  "file": "assets/refsfx/mid_02.wav",
+  "class": "mid",
+  "idx": 2,
+  "dur": 0.135
+ },
+ {
+  "file": "assets/refsfx/hi_00.wav",
+  "class": "hi",
+  "idx": 0,
+  "dur": 0.1734
+ },
+ {
+  "file": "assets/refsfx/hi_01.wav",
+  "class": "hi",
+  "idx": 1,
+  "dur": 0.1589
+ },
+ {
+  "file": "assets/refsfx/hi_02.wav",
+  "class": "hi",
+  "idx": 2,
+  "dur": 0.1677
+ },
+ {
+  "file": "assets/refsfx/hi_03.wav",
+  "class": "hi",
+  "idx": 3,
+  "dur": 0.1352
+ },
+ {
+  "file": "assets/refsfx/hi_04.wav",
+  "class": "hi",
+  "idx": 4,
+  "dur": 0.1792
+ },
+ {
+  "file": "assets/refsfx/hi_05.wav",
+  "class": "hi",
+  "idx": 5,
+  "dur": 0.1629
+ },
+ {
+  "file": "assets/refsfx/hi_06.wav",
+  "class": "hi",
+  "idx": 6,
+  "dur": 0.4261
+ },
+ {
+  "file": "assets/refsfx/hi_07.wav",
+  "class": "hi",
+  "idx": 7,
+  "dur": 0.4344
+ },
+ {
+  "file": "assets/refsfx/hi_08.wav",
+  "class": "hi",
+  "idx": 8,
+  "dur": 0.2015
+ },
+ {
+  "file": "assets/refsfx/hi_09.wav",
+  "class": "hi",
+  "idx": 9,
+  "dur": 0.1226
+ },
+ {
+  "file": "assets/refsfx/hi_10.wav",
+  "class": "hi",
+  "idx": 10,
+  "dur": 0.47
+ },
+ {
+  "file": "assets/refsfx/hi_11.wav",
+  "class": "hi",
+  "idx": 11,
+  "dur": 0.2083
+ },
+ {
+  "file": "assets/refsfx/hi_12.wav",
+  "class": "hi",
+  "idx": 12,
+  "dur": 0.2018
+ },
+ {
+  "file": "assets/refsfx/hi_13.wav",
+  "class": "hi",
+  "idx": 13,
+  "dur": 0.133
+ },
+ {
+  "file": "assets/refsfx/hi_14.wav",
+  "class": "hi",
+  "idx": 14,
+  "dur": 0.2079
+ },
+ {
+  "file": "assets/refsfx/hi_15.wav",
+  "class": "hi",
+  "idx": 15,
+  "dur": 0.208
+ },
+ {
+  "file": "assets/refsfx/hi_16.wav",
+  "class": "hi",
+  "idx": 16,
+  "dur": 0.1227
+ },
+ {
+  "file": "assets/refsfx/hi_17.wav",
+  "class": "hi",
+  "idx": 17,
+  "dur": 0.4695
+ },
+ {
+  "file": "assets/refsfx/hi_18.wav",
+  "class": "hi",
+  "idx": 18,
+  "dur": 0.2006
+ },
+ {
+  "file": "assets/refsfx/hi_19.wav",
+  "class": "hi",
+  "idx": 19,
+  "dur": 0.2
+ },
+ {
+  "file": "assets/refsfx/hi_20.wav",
+  "class": "hi",
+  "idx": 20,
+  "dur": 0.2258
+ },
+ {
+  "file": "assets/refsfx/hi_21.wav",
+  "class": "hi",
+  "idx": 21,
+  "dur": 0.1082
+ },
+ {
+  "file": "assets/refsfx/hi_22.wav",
+  "class": "hi",
+  "idx": 22,
+  "dur": 0.466
+ },
+ {
+  "file": "assets/refsfx/hi_23.wav",
+  "class": "hi",
+  "idx": 23,
+  "dur": 0.2025
+ },
+ {
+  "file": "assets/refsfx/hi_24.wav",
+  "class": "hi",
+  "idx": 24,
+  "dur": 0.2132
+ },
+ {
+  "file": "assets/refsfx/hi_25.wav",
+  "class": "hi",
+  "idx": 25,
+  "dur": 0.1391
+ },
+ {
+  "file": "assets/refsfx/hi_26.wav",
+  "class": "hi",
+  "idx": 26,
+  "dur": 0.2125
+ },
+ {
+  "file": "assets/refsfx/hi_27.wav",
+  "class": "hi",
+  "idx": 27,
+  "dur": 0.2144
+ },
+ {
+  "file": "assets/refsfx/hi_28.wav",
+  "class": "hi",
+  "idx": 28,
+  "dur": 0.1128
+ },
+ {
+  "file": "assets/refsfx/hi_29.wav",
+  "class": "hi",
+  "idx": 29,
+  "dur": 0.2051
+ },
+ {
+  "file": "assets/refsfx/hi_30.wav",
+  "class": "hi",
+  "idx": 30,
+  "dur": 0.1996
+ },
+ {
+  "file": "assets/refsfx/low_00.wav",
+  "class": "low",
+  "idx": 0,
+  "dur": 0.0907
+ },
+ {
+  "file": "assets/refsfx/low_01.wav",
+  "class": "low",
+  "idx": 1,
+  "dur": 0.0971
+ },
+ {
+  "file": "assets/refsfx/low_02.wav",
+  "class": "low",
+  "idx": 2,
+  "dur": 0.3833
+ },
+ {
+  "file": "assets/refsfx/low_03.wav",
+  "class": "low",
+  "idx": 3,
+  "dur": 0.0908
+ },
+ {
+  "file": "assets/refsfx/low_04.wav",
+  "class": "low",
+  "idx": 4,
+  "dur": 0.0772
+ },
+ {
+  "file": "assets/refsfx/low_05.wav",
+  "class": "low",
+  "idx": 5,
+  "dur": 0.1132
+ }
+]
