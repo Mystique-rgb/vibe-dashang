@@ -16,11 +16,29 @@
 | [natural-wonders/](natural-wonders/) | 传统七大自然奇观 —— 珠峰压轴 | 50s |
 | [seven-treasures/](seven-treasures/) | 中华七大国宝 —— 大盂鼎压轴 | 53s |
 | [seven-inventions/](seven-inventions/) | 七大发明 —— 金属线稿 + 双栏知识卡 | 53s |
-| [seven-flames/](seven-flames/) | 斗破苍穹 · 七大异火 —— 异火榜倒数 | 50s |
+| [seven-flames/](seven-flames/) | 斗破苍穹 · 七大异火 —— 异火榜倒数（定型版） | 50s |
 | [zhang-guimei/](zhang-guimei/) | 天亮以前 · 张桂梅 —— 90 秒人物短片 | 90s |
 | [if-you-were-gauss/](if-you-were-gauss/) | 假如你是高斯 —— 37 场 82 镜 | 120s |
+| [if-you-were-gauss-studio/](if-you-were-gauss-studio/) | 同上，带字幕层的可编辑 Studio 版 | 120s |
 | [if-you-were-newton/](if-you-were-newton/) | 假如你是牛顿 —— 33 场 87 镜 | 120s |
+| [dragon-road/](dragon-road/) | 龙族 · 路明非 —— 人物志 | 122s |
 | [the-liar/](the-liar/) | 说谎者 ·《十日终焉》游戏图解 | 40s |
+
+### 同一支片子的其他版本
+
+| 目录 | 说明 | 时长 |
+|---|---|---|
+| [seven-flames-v1/](seven-flames-v1/) | 七大异火初版 | 50s |
+| [seven-flames-flame/](seven-flames-flame/) | 七大异火 · 火焰环版 | 50s |
+| [seven-flames-outline/](seven-flames-outline/) | 七大异火 · 线稿勾勒版 | 50s |
+
+### 封面与实验工程
+
+| 目录 | 说明 |
+|---|---|
+| [covers/](covers/) | 3:4 竖版封面（1080×1440），七大奇迹 / 国宝 / 自然奇观 |
+| [study-replica-1/](study-replica-1/) | 复刻实验：从参考帧提取人物轮廓折线 |
+| [study-replica-2/](study-replica-2/) | 复刻实验：人物分层、配色占比量化 |
 
 ## 共同的工程约定
 

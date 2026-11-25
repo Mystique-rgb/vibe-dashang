@@ -1,0 +1,24 @@
+{
+  "source_song": "霓虹兔 - Chaikovsky",
+  "source_drop_s": 91.63,
+  "source_pcm_offset_s": 50.23,
+  "picture_drop_s": 41.4,
+  "picture_drop_frame": 1242,
+  "frame_count": 1505,
+  "rms_dbfs": -9.27,
+  "peak_dbfs": -0.92,
+  "chapter_impacts_db": [
+    10.2,
+    1.1,
+    9.6,
+    1.2,
+    11.6,
+    0.1,
+    10.6,
+    1.0,
+    9.9,
+    3.6,
+    9.4,
+    2.7
+  ]
+}

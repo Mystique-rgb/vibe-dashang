@@ -1,0 +1,65 @@
+{
+  "source_song": "霓虹兔 - Chaikovsky",
+  "source_drop_s": 91.64,
+  "source_pcm_offset_s": 49.8218125,
+  "music_rate": 1.0101010101010102,
+  "picture_drop_s": 41.4,
+  "picture_drop_frame": 1242,
+  "frame_count": 1505,
+  "rms_dbfs": -9.59,
+  "peak_dbfs": -1.35,
+  "chapter_impacts_db": [
+    5.7,
+    6.2,
+    3.6,
+    5.9,
+    4.5,
+    6.7,
+    1.0,
+    5.9,
+    3.2,
+    7.3,
+    1.9,
+    6.9
+  ],
+  "designed_transient_cues": 203,
+  "foley": [
+    {
+      "rank": 19,
+      "start_s": 5.55,
+      "rms_dbfs": -23.07
+    },
+    {
+      "rank": 15,
+      "start_s": 9.15,
+      "rms_dbfs": -21.81
+    },
+    {
+      "rank": 14,
+      "start_s": 12.75,
+      "rms_dbfs": -22.38
+    },
+    {
+      "rank": 11,
+      "start_s": 16.35,
+      "rms_dbfs": -23.92
+    },
+    {
+      "rank": 9,
+      "start_s": 19.95,
+      "rms_dbfs": -22.28
+    },
+    {
+      "rank": 3,
+      "start_s": 23.55,
+      "rms_dbfs": -22.83
+    },
+    {
+      "rank": 2,
+      "start_s": 41.81,
+      "rms_dbfs": -20.38
+    }
+  ],
+  "original_intro_layer_until_s": 5.32,
+  "original_intro_crossfade_end_s": 5.4
+}

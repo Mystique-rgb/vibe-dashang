@@ -1,0 +1,180 @@
+{
+  "source_song": "霓虹兔 - Chaikovsky",
+  "source_drop_s": 91.64,
+  "source_pcm_offset_s": 49.8218125,
+  "music_rate": 1.0101010101010102,
+  "picture_drop_s": 41.4,
+  "picture_drop_frame": 1242,
+  "frame_count": 1505,
+  "rms_dbfs": -11.19,
+  "peak_dbfs": -3.17,
+  "chapter_impacts_db": [
+    5.8,
+    5.1,
+    0.8,
+    5.8,
+    2.2,
+    5.9,
+    -0.9,
+    5.4,
+    0.5,
+    5.4,
+    -0.3,
+    5.9
+  ],
+  "timers": [
+    {
+      "frame": 224,
+      "hz": 1480
+    },
+    {
+      "frame": 226,
+      "hz": 1960
+    },
+    {
+      "frame": 332,
+      "hz": 1480
+    },
+    {
+      "frame": 334,
+      "hz": 1960
+    },
+    {
+      "frame": 440,
+      "hz": 1480
+    },
+    {
+      "frame": 442,
+      "hz": 1960
+    },
+    {
+      "frame": 548,
+      "hz": 1480
+    },
+    {
+      "frame": 550,
+      "hz": 1960
+    },
+    {
+      "frame": 656,
+      "hz": 1480
+    },
+    {
+      "frame": 658,
+      "hz": 1960
+    },
+    {
+      "frame": 764,
+      "hz": 1480
+    },
+    {
+      "frame": 766,
+      "hz": 1960
+    },
+    {
+      "frame": 1250,
+      "hz": 1480
+    },
+    {
+      "frame": 1252,
+      "hz": 1960
+    },
+    {
+      "frame": 229,
+      "hz": 1830
+    },
+    {
+      "frame": 337,
+      "hz": 1876
+    },
+    {
+      "frame": 445,
+      "hz": 1922
+    },
+    {
+      "frame": 553,
+      "hz": 1968
+    },
+    {
+      "frame": 661,
+      "hz": 2014
+    },
+    {
+      "frame": 769,
+      "hz": 2060
+    },
+    {
+      "frame": 1303,
+      "hz": 1840
+    },
+    {
+      "frame": 1344,
+      "hz": 1910
+    },
+    {
+      "frame": 1398,
+      "hz": 1980
+    }
+  ],
+  "foley": [
+    {
+      "rank": 19,
+      "start_s": 5.63,
+      "rms_dbfs": -23.65
+    },
+    {
+      "rank": 15,
+      "start_s": 9.23,
+      "rms_dbfs": -21.99
+    },
+    {
+      "rank": 14,
+      "start_s": 12.83,
+      "rms_dbfs": -22.77
+    },
+    {
+      "rank": 11,
+      "start_s": 16.43,
+      "rms_dbfs": -24.38
+    },
+    {
+      "rank": 9,
+      "start_s": 20.03,
+      "rms_dbfs": -20.93
+    },
+    {
+      "rank": 3,
+      "start_s": 23.63,
+      "rms_dbfs": -22.56
+    },
+    {
+      "rank": 2,
+      "start_s": 41.87,
+      "rms_dbfs": -19.08
+    }
+  ],
+  "word_impacts": [
+    {
+      "text": "吞噬万物",
+      "frame": 1275,
+      "time_s": 42.5
+    },
+    {
+      "text": "魂族底牌",
+      "frame": 1288,
+      "time_s": 42.933333
+    },
+    {
+      "text": "双帝决战",
+      "frame": 1339,
+      "time_s": 44.633333
+    },
+    {
+      "text": "万火归位",
+      "frame": 1391,
+      "time_s": 46.366667
+    }
+  ],
+  "original_intro_exact_until_s": 5.32,
+  "original_intro_crossfade_end_s": 5.4
+}

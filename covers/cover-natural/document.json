@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 0,
+  "settings": {
+    "width": 1080,
+    "height": 1440,
+    "duration": 3,
+    "fps": 30
+  },
+  "audio": [],
+  "title": "cover-natural"
+}
