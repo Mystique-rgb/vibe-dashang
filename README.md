@@ -76,3 +76,30 @@ mh render out.mp4 --json '{"fps":30,"quality":"high"}'
 **混音产物**（`assets/mix.wav`、`foley.wav` 等）同样不进仓库 ——
 各项目目录里都有构建脚本（`build_audio.py` / `mix.py` / `scripts/*.py`），
 从 `assets/` 里的源素材重新生成即可。
+
+## 首次运行：先重建混音
+
+仓库只放源码和**源素材**（`assets/` 里的 mp3、`sfx/` 音效库），
+混音产物（`mix.wav`、`foley.wav` 等）由脚本生成，不进库。
+所以刚 clone 下来直接 `mh preview` 会报 `Could not resolve ... mix.wav` —— **这是预期的**。
+
+先跑对应目录的构建脚本：
+
+| 目录 | 重建命令 |
+|---|---|
+| `seven-sins/` | `python build_audio.py` |
+| `natural-wonders/` | `python build_audio.py` |
+| `seven-treasures/` | `python mix.py` |
+| `seven-inventions/` | `python mix.py` |
+| `seven-flames*/` | `python mix.py` |
+| `if-you-were-gauss*/` | `python scripts/audio-mix.py` |
+| `if-you-were-newton/` | `python scripts/build-audio.py` |
+| `the-liar/` | `python scripts/render-foley.py && python scripts/render-sound-design.py` |
+| `dragon-road/` | `python scripts/prepare.py` |
+
+依赖：`numpy` `scipy` `ffmpeg`（在 PATH 里）。
+部分脚本需要源音乐，路径写死在脚本顶部（如 `seven-flames*/mix.py` 读 `D:/vibe小曲/霓虹兔 - Chaikovsky.mp3`），
+换机器要改那一行。
+
+封面工程（`covers/`）、复刻实验（`study-replica-*/`）、`seven-wonders/`、`zhang-guimei/`、`vibe-probability/`
+的音频要么没有、要么是直接引用的源文件，**不需要重建**，clone 下来就能跑。

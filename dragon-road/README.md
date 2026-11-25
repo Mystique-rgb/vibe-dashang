@@ -17,3 +17,9 @@ MotionHarness Standard 工程。1920 × 1080，30 fps，3653 帧，121.767 秒�
 - 1:54–2:01：牵手和并肩走。
 
 造型参考为[动画官网角色关系图](https://ryuzoku-anime.com/1st/character/)及[绘梨衣插图资料](https://www.bilibili.com/read/cv1752257/)。
+
+## 音频
+
+`assets/mix.wav`（或 `mix-captions.wav`）是构建产物，不进仓库。
+clone 后先跑目录里的构建脚本（`mix.py` / `scripts/prepare.py` / `scripts/audio-mix.py`）生成，
+否则 `mh preview` 会报 `Could not resolve ... wav`。

@@ -33,3 +33,9 @@ mh render 七大异火.mp4 --json '{"fps":30,"quality":"high"}'
 ```
 
 需要重新混音时，用 Python、NumPy、SciPy 和 FFmpeg 运行 `python mix.py "原曲文件路径"`，会重新生成 `assets/mix.wav` 和 `assets/sync.json`。
+
+## 音频
+
+`assets/mix.wav`（或 `mix-captions.wav`）是构建产物，不进仓库。
+clone 后先跑目录里的构建脚本（`mix.py` / `scripts/prepare.py` / `scripts/audio-mix.py`）生成，
+否则 `mh preview` 会报 `Could not resolve ... wav`。

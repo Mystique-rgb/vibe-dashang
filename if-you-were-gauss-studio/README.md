@@ -24,3 +24,9 @@ mh render ./导出.mp4 --json '{"fps":30,"quality":"high"}'
 - 98.32 秒仍是最大叙事转折。项目的整帧入口在 98.333 秒，99.17 秒出现「扎赫找到了！」，与画内「谷神星」同拍。
 - [实录拟音来源](assets/audio/foley/SOURCES.md) · [小宝音效室采样与点位](assets/audio/studio/CUES.md)
 - 重新混音需 Python、NumPy、SciPy、SoundFile、edge-tts 和 FFmpeg。执行 `python scripts/audio-mix.py --captions-only` 重建字幕版音轨。已附原曲、拟音、旧版旁白素材与混音，开工程可以直接预览或导出。
+
+## 音频
+
+`assets/audio/mix-captions.wav` 是构建产物，不进仓库。
+clone 后跑 `python scripts/audio-mix.py` 重新生成，否则 `mh preview` 会报 `Could not resolve ... wav`。
+源素材（`assets/audio/music.mp3`、`foley/`、`voice/`）都在仓库里。

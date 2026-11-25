@@ -13,3 +13,9 @@ assets/        sync.json（画面锚点与音乐时间对齐表）
 mix.py         从源素材重跑混音 → assets/mix.wav（不进库）
 完整文案.md     全片逐镜文案
 ```
+
+## 音频
+
+`assets/mix.wav`（或 `mix-captions.wav`）是构建产物，不进仓库。
+clone 后先跑目录里的构建脚本（`mix.py` / `scripts/prepare.py` / `scripts/audio-mix.py`）生成，
+否则 `mh preview` 会报 `Could not resolve ... wav`。
