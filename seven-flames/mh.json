@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "projectType": "standard",
+  "runtimeVersion": 1,
+  "entry": "src/scene.js",
+  "width": 1920,
+  "height": 1080,
+  "duration": 50.16666666666667,
+  "fps": 30,
+  "audio": [{"src": "assets/mix.wav", "start": 0, "duration": 50.16666666666667, "volume": 0}]
+}

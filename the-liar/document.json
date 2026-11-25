@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 38,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 40.1,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/music-precision.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 40.1,
+      "volume": -2.8,
+      "fadeOut": 0.7
+    },
+    {
+      "src": "assets/foley-precision.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 40.1,
+      "volume": 0
+    }
+  ],
+  "title": "说谎者-MotionHarness",
+  "markerSequence": 25,
+  "markerTypes": {
+    "#169cff": ""
+  }
+}

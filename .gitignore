@@ -1,10 +1,15 @@
 node_modules/
 .mh/
 .tmp/
+__pycache__/
 
 # 渲染产物：仓库只放源码，成片留在本地
 *.mp4
+*.vmg
+*.zip
 
 # 素材例外
 !assets/*.mp3
 !assets/*.wav
+!assets/**/*.mp3
+!assets/**/*.wav

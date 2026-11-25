@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 0,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 50.16666666666667,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/mix.wav",
+      "start": 0,
+      "duration": 50.16666666666667,
+      "volume": 0
+    }
+  ],
+  "title": "yi-huo-v2"
+}

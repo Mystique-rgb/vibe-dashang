@@ -1,0 +1,17 @@
+# MotionHarness 运行时缓存（渲染产物、对象库，可重建）
+.mh/
+.tmp/
+node_modules/
+__pycache__/
+
+# 成片不进仓库（体积大，用 Release 或网盘分发）
+*.mp4
+*.vmg
+
+# 混音产物：由构建脚本重新生成，不进仓库
+assets/audio/foley.wav
+
+# 素材例外：源音乐、音效库要进仓库
+!assets/*.mp3
+!assets/*.wav
+!assets/sfx/*.wav

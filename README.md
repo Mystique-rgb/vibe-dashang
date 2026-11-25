@@ -8,10 +8,19 @@
 
 ## 项目
 
-| 目录 | 主题 | 时长 | 音乐 |
-|---|---|---|---|
-| [根目录](.) | 学过的，只有想得起来的 —— 为什么复习了还是会忘 | 66s | 117.45 BPM |
-| [vibe-probability/](vibe-probability/) | 平均值不是保证 —— 那个 63% 是与难度无关的常数 1−1/e | 66s | 114.79 BPM |
+| 目录 | 主题 | 时长 |
+|---|---|---|
+| [vibe-probability/](vibe-probability/) | 平均值不是保证 —— 那个 63% 是与难度无关的常数 1−1/e | 66s |
+| [seven-wonders/](seven-wonders/) | 古代七大奇迹 —— 七座建筑只剩一座还在 | 50s |
+| [seven-sins/](seven-sins/) | 七大宗罪 —— 每一罪都有名字 | 50s |
+| [natural-wonders/](natural-wonders/) | 传统七大自然奇观 —— 珠峰压轴 | 50s |
+| [seven-treasures/](seven-treasures/) | 中华七大国宝 —— 大盂鼎压轴 | 53s |
+| [seven-inventions/](seven-inventions/) | 七大发明 —— 金属线稿 + 双栏知识卡 | 53s |
+| [seven-flames/](seven-flames/) | 斗破苍穹 · 七大异火 —— 异火榜倒数 | 50s |
+| [zhang-guimei/](zhang-guimei/) | 天亮以前 · 张桂梅 —— 90 秒人物短片 | 90s |
+| [if-you-were-gauss/](if-you-were-gauss/) | 假如你是高斯 —— 37 场 82 镜 | 120s |
+| [if-you-were-newton/](if-you-were-newton/) | 假如你是牛顿 —— 33 场 87 镜 | 120s |
+| [the-liar/](the-liar/) | 说谎者 ·《十日终焉》游戏图解 | 40s |
 
 ## 共同的工程约定
 
@@ -45,3 +54,7 @@ mh render out.mp4 --json '{"fps":30,"quality":"high"}'
 
 成片体积大（每支约 60–170 MB），不进仓库，从 Release 下载。
 渲染缓存（`.mh/`）和预览帧（`.tmp/`）也排除在外，可以重新生成。
+
+**混音产物**（`assets/mix.wav`、`foley.wav` 等）同样不进仓库 ——
+各项目目录里都有构建脚本（`build_audio.py` / `mix.py` / `scripts/*.py`），
+从 `assets/` 里的源素材重新生成即可。

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 24,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 50,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/mix.wav",
+      "start": 0,
+      "duration": 50,
+      "volume": 0
+    }
+  ],
+  "title": "seven-sins",
+  "markerSequence": 21,
+  "markerTypes": {
+    "#169cff": "",
+    "#df783e": ""
+  }
+}

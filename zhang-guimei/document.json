@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 0,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 90,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/music.mp3",
+      "start": 0,
+      "offset": 13,
+      "duration": 90,
+      "volume": -1.6,
+      "fadeOut": 1.2
+    },
+    {
+      "src": "assets/sfx/pencil.wav",
+      "start": 0.15,
+      "volume": -9
+    },
+    {
+      "src": "assets/sfx/switch.wav",
+      "start": 2.77,
+      "volume": -5
+    },
+    {
+      "src": "assets/sfx/page.wav",
+      "start": 27,
+      "volume": -7
+    },
+    {
+      "src": "assets/sfx/page.wav",
+      "start": 40.5,
+      "volume": -9
+    },
+    {
+      "src": "assets/sfx/steps.wav",
+      "start": 47.85,
+      "volume": -8
+    },
+    {
+      "src": "assets/sfx/page.wav",
+      "start": 55.8,
+      "volume": -8
+    },
+    {
+      "src": "assets/sfx/chalk.wav",
+      "start": 67.12,
+      "volume": -9
+    },
+    {
+      "src": "assets/sfx/switch.wav",
+      "start": 77.36,
+      "volume": -6
+    }
+  ],
+  "title": "zhangguimei"
+}

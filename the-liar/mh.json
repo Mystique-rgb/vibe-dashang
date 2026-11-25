@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "projectType": "standard",
+  "runtimeVersion": 1,
+  "entry": "src/scene.js",
+  "width": 1920,
+  "height": 1080,
+  "duration": 40.1,
+  "fps": 30,
+  "audio": [
+    {
+      "src": "assets/music-precision.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 40.1,
+      "volume": -2.8,
+      "fadeOut": 0.7
+    },
+    {
+      "src": "assets/foley-precision.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 40.1,
+      "volume": 0
+    }
+  ]
+}

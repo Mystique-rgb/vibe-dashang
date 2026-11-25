@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 22,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 53.13333333333333,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/mix.wav",
+      "start": 0,
+      "duration": 53.13333333333333,
+      "volume": 0
+    }
+  ],
+  "title": "七大发明",
+  "markerSequence": 13,
+  "markerTypes": {
+    "#169cff": ""
+  }
+}

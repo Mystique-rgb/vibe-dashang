@@ -1,0 +1,120 @@
+{
+  "source_song": "霓虹兔 - Chaikovsky",
+  "source_drop_s": 91.64,
+  "source_pcm_offset_s": 49.8218125,
+  "music_rate": 1.0101010101010102,
+  "picture_drop_s": 41.4,
+  "picture_drop_frame": 1242,
+  "frame_count": 1505,
+  "rms_dbfs": -10.93,
+  "peak_dbfs": -3.17,
+  "chapter_impacts_db": [
+    1.6,
+    4.9,
+    0.8,
+    5.6,
+    2.2,
+    5.6,
+    -0.9,
+    5.1,
+    0.5,
+    5.3,
+    -0.3,
+    5.7
+  ],
+  "timers": [
+    {
+      "frame": 224,
+      "hz": 1480
+    },
+    {
+      "frame": 226,
+      "hz": 1960
+    },
+    {
+      "frame": 332,
+      "hz": 1480
+    },
+    {
+      "frame": 334,
+      "hz": 1960
+    },
+    {
+      "frame": 440,
+      "hz": 1480
+    },
+    {
+      "frame": 442,
+      "hz": 1960
+    },
+    {
+      "frame": 548,
+      "hz": 1480
+    },
+    {
+      "frame": 550,
+      "hz": 1960
+    },
+    {
+      "frame": 656,
+      "hz": 1480
+    },
+    {
+      "frame": 658,
+      "hz": 1960
+    },
+    {
+      "frame": 764,
+      "hz": 1480
+    },
+    {
+      "frame": 766,
+      "hz": 1960
+    },
+    {
+      "frame": 1250,
+      "hz": 1480
+    },
+    {
+      "frame": 1252,
+      "hz": 1960
+    }
+  ],
+  "foley": [
+    {
+      "rank": 19,
+      "start_s": 5.63,
+      "rms_dbfs": -26.2
+    },
+    {
+      "rank": 15,
+      "start_s": 9.23,
+      "rms_dbfs": -22.89
+    },
+    {
+      "rank": 14,
+      "start_s": 12.83,
+      "rms_dbfs": -22.44
+    },
+    {
+      "rank": 11,
+      "start_s": 16.43,
+      "rms_dbfs": -24.22
+    },
+    {
+      "rank": 9,
+      "start_s": 20.03,
+      "rms_dbfs": -21.28
+    },
+    {
+      "rank": 3,
+      "start_s": 23.63,
+      "rms_dbfs": -23.3
+    },
+    {
+      "rank": 2,
+      "start_s": 41.87,
+      "rms_dbfs": -19.96
+    }
+  ]
+}

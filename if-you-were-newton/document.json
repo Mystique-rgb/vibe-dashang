@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 0,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 120.53333333333333,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/audio/music.mp3",
+      "start": 0,
+      "offset": 0,
+      "duration": 120.53333333333333,
+      "volume": -4.5
+    },
+    {
+      "src": "assets/audio/foley.wav",
+      "start": 0,
+      "offset": 0,
+      "duration": 120.53333333333333,
+      "volume": 0
+    }
+  ],
+  "title": "假如你是牛顿-MotionHarness"
+}
